@@ -81,7 +81,9 @@ a:hover {
 }
 
 .attribution {
-   
+  position: relative;
+  bottom: 10px;
+  font-size: 0.8rem;
 }
 
 .logo_img_container {
