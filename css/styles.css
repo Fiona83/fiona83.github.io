@@ -80,6 +80,10 @@ a:hover {
   bottom: 300px;
 }
 
+.main-img {
+  display: block;
+}
+
 .attribution {
   position: relative;
   bottom: 10px;
